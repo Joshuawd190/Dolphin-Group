@@ -4,7 +4,7 @@
 Dolphin Group is an ecommerce website. Users can create an account and add items to a shopping card. If the user specifies they are an Administrator, they will be able to add, edit, and delete items from the catalog. User accounts, items, and order contents persist on a mySQL database
 
 Dolphin Group Deployed Application:<br/>
-[https://mswil-dolphin-group.herokuapp.com/](https://mswil-dolphin-group.herokuapp.com/)
+[https://joshuawd190-dolphin-group.herokuapp.com/](https://joshuawd190-dolphin-group.herokuapp.com/)
 ## Table of Contents
 - [Description](#description)
 - [Installation](#installation)
@@ -28,7 +28,7 @@ If you want to seed your database:
 Use the application at [http://localhost:3001/](http://localhost:3001/)
 
 ## Demo
-Live Demo: [https://mswil-dolphin-group.herokuapp.com/](https://mswil-dolphin-group.herokuapp.com/)
+Live Demo: [https://joshuawd190-dolphin-group.herokuapp.com/](https://joshuawd190-dolphin-group.herokuapp.com/)
 
 ### Browse the available inventory 
 ![Homepage](/homepage.png)
